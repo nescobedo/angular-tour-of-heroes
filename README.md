@@ -1,5 +1,7 @@
 # AngularTourOfHeroes
 
+My first run of Tour Of Heroes introductory tutorial from the Angular site from Sept 2018.  I got a job at ExxonMobil developing Angular applications 4 months later.  Part of onboarding there involved doing the Tour of Heros app.  I took my time and studied keywords in each section thoroughly.  Repetition is key to learning for me.  
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
 ## Development server
